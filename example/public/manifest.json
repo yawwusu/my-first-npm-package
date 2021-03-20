@@ -1,0 +1,8 @@
+{
+  "short_name": "@yawwusu/my-first-npm-package",
+  "name": "@yawwusu/my-first-npm-package",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
