@@ -1,6 +1,6 @@
 {
   "name": "@yawwusu/my-first-npm-package",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a custom React hook that downloads a file from a url",
   "author": "yawwusu",
   "license": "MIT",
