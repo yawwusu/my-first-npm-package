@@ -1,6 +1,6 @@
 # @yawwusu/my-first-npm-package
 
-> a custom React hook that downloads a file from a url
+> default custom React hook from npx create-react hook. This is my first published npm package :) 
 
 [![NPM](https://img.shields.io/npm/v/@yawwusu/my-first-npm-package.svg)](https://www.npmjs.com/package/@yawwusu/my-first-npm-package) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
