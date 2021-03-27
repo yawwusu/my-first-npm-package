@@ -12,7 +12,7 @@ describe('useMyFirstHook', () => {
 
     // Fast-forward 1sec
     act(() => {
-      jest.advanceTimersByTime(1000);
+      jest.advanceTimersByTime(500);
     });
 
     // Check after total 1 sec
@@ -20,7 +20,7 @@ describe('useMyFirstHook', () => {
 
     // Fast-forward 1 more sec
     act(() => {
-      jest.advanceTimersByTime(1000);
+      jest.advanceTimersByTime(500);
     });
 
     // Check after total 2 sec

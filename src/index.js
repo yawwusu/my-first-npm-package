@@ -11,7 +11,7 @@ export const useMyFirstHook = () => {
     let interval = window.setInterval(() => {
       counter++
       setState({counter})
-    }, 1000)
+    }, 500)
     return () => {
       window.clearInterval(interval)
     }
